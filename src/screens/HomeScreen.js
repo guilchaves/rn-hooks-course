@@ -1,38 +1,27 @@
 import React from 'react';
 import { Text, StyleSheet, View, Button, TouchableOpacity } from 'react-native';
+import HomeButton from '../components/HomeButton';
 
 const HomeScreen = ({ navigation }) => {
   return (
     <View>
-      <Text style={styles.text}>Home</Text>
-      <View style={styles.margin}>
-        <Button title="Go to Components Demo" onPress={() => navigation.navigate('Component')} />
-      </View>
-      <View style={styles.margin}>
-        <Button title="Go to List Demo" onPress={() => navigation.navigate('List')} />
-      </View>
-      <View style={styles.margin}>
-        <Button title="Go to Image Demo" onPress={() => navigation.navigate('Image')} />
-      </View>
-      <View style={styles.margin}>
-        <Button title="Go to Counter Demo" onPress={() => navigation.navigate('Counter')} />
-      </View>
-      <View style={styles.margin}>
-        <Button title="Go to Color Demo" onPress={() => navigation.navigate('Color')} />
-      </View>
-      <View style={styles.margin}>
-        <Button title="Go to Square Demo" onPress={() => navigation.navigate('Square')} />
-      </View>
+      <Text style={styles.text}>The Complete React Native Course</Text>
+      <HomeButton title="Component" onPress={() => navigation.navigate('Component')} />
+      <HomeButton title="List" onPress={() => navigation.navigate('List')} />
+      <HomeButton title="Image" onPress={() => navigation.navigate('Image')} />
+      <HomeButton title="Counter" onPress={() => navigation.navigate('Counter')} />
+      <HomeButton title="Color" onPress={() => navigation.navigate('Color')} />
+      <HomeButton title="Square" onPress={() => navigation.navigate('Square')} />
+      <HomeButton title="Text" onPress={() => navigation.navigate('Text')} />
     </View>
   );
 };
 
 const styles = StyleSheet.create({
   text: {
-    fontSize: 30,
-  },
-  margin: {
-    margin: 10,
+    fontSize: 24,
+    margin: 14,
+    textAlign: 'center',
   },
 });
 
