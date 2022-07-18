@@ -17,7 +17,6 @@ const TextScreen = () => {
       {password.length > 0 && password.length < 5 ? (
         <Text style={[styles.warning, styles.text]}> Password must be longer than 5 characters </Text>
       ) : null}
-      {/* <Text style={styles.text}>Hi, my name is {password}</Text> */}
     </View>
   );
 };
