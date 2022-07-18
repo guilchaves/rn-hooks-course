@@ -14,7 +14,7 @@ Understand React Native with Hooks, Context, and React Navigation.
 ☑ - Navigating Users Between Screens <br>
 ☑ - Building Reusable Components <br>
 ☑ - State Management <br>
-☐ - How to Handle Screen Layout<br>
+☑ - How to Handle Screen Layout<br>
 ☐ - Using Outside API's<br>
 ☐ - Making Hooks Reusable<br>
 ☐ - Nagivation with Parameters <br>
