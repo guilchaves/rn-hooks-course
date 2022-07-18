@@ -8,6 +8,10 @@ This repository contains my studies in React Native through the course [The Comp
 
 Understand React Native with Hooks, Context, and React Navigation.
 
+### Projects
+
+☑ - Fundamentals of React Native App <br>
+
 ### My Progress
 
 ☑ - List Building <br>
