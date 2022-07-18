@@ -10,7 +10,8 @@ Understand React Native with Hooks, Context, and React Navigation.
 
 ### Projects
 
-☑ - Fundamentals of React Native App <br>
+☑ - [RN Fundamentals App](https://github.com/guilchaves/rn-hooks-course/tree/main/1-rn-fundamentals-app) <br>
+☐ - Restaurant Search App <br>
 
 ### My Progress
 
