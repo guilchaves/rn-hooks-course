@@ -23,8 +23,8 @@ Understand React Native with Hooks, Context, and React Navigation.
 ☑ - State Management <br>
 ☑ - How to Handle Screen Layout<br>
 ☑ - Using Outside API's<br>
-☐ - Making Hooks Reusable<br>
-☐ - Nagivation with Parameters <br>
+☑ - Making Hooks Reusable<br>
+☐ - Navigation with Parameters <br>
 ☐ - Making Advanced State Management with Context <br>
 ☐ - Data API Sync <br>
 ☐ - Building a Custom Express API <br>
