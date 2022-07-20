@@ -2,7 +2,7 @@
 
 ### About this repo
 
-This repository contains my studies in React Native through the course [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) by [Stephen Grider](https://www.udemy.com/course/the-complete-react-native-and-redux-course/#instructor-1).
+This repository contains my studies in React Native throughout the course [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) by [Stephen Grider](https://www.udemy.com/course/the-complete-react-native-and-redux-course/#instructor-1).
 
 ### Goals of the course
 
