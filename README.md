@@ -11,7 +11,7 @@ Understand React Native with Hooks, Context, and React Navigation.
 ### Projects
 
 ☑ - [RN Fundamentals App](https://github.com/guilchaves/rn-hooks-course/tree/main/1-rn-fundamentals-app) <br>
-☐ - [Restaurant Search App](https://github.com/guilchaves/rn-hooks-course/tree/main/2-restaurant-search-app) <br>
+☑  - [Restaurant Search App](https://github.com/guilchaves/rn-hooks-course/tree/main/2-restaurant-search-app) <br>
 ☐ - Blog App <br>
 ☐ - Tracking App <br>
 
@@ -24,7 +24,7 @@ Understand React Native with Hooks, Context, and React Navigation.
 ☑ - How to Handle Screen Layout<br>
 ☑ - Using Outside API's<br>
 ☑ - Making Hooks Reusable<br>
-☐ - Navigation with Parameters <br>
+☑  - Navigation with Parameters <br>
 ☐ - Making Advanced State Management with Context <br>
 ☐ - Data API Sync <br>
 ☐ - Building a Custom Express API <br>
