@@ -1,4 +1,6 @@
 node_modules/
+2.1-restaurant-search-app-redo/
+
 .expo/
 .expo-shared/
 npm-debug.*
@@ -9,6 +11,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+
+
 
 # macOS
 .DS_Store
