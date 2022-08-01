@@ -8,7 +8,7 @@ This is a simple application that uses the yelp API to help users search for res
 
 Make sure you have a development environment set up in your machine. You can do this by following this steps: [Setting up the development environment](https://reactnative.dev/docs/environment-setup) . <br/>
 
-In this directory, install is dependecies by running
+In this directory, install its dependecies by running
 
 ### `yarn`
 
