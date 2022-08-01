@@ -8,7 +8,7 @@ This is a simple CRUD application which the user can create, edit and delete blo
 
 Make sure you have a development environment set up in your machine. You can do this by following this steps: [Setting up the development environment](https://reactnative.dev/docs/environment-setup) . <br/>
 
-In this directory, install is dependecies by running
+In this directory, install its dependecies by running
 
 ### `yarn`
 
