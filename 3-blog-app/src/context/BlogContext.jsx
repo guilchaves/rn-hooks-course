@@ -8,5 +8,14 @@ const BlogContext = React.createContext();
  * @returns Provider with children components
  */
 export const BlogProvider = ({ children }) => {
-  return <BlogContext.Provider>{children}</BlogContext.Provider>;
+  const blogPosts = [
+    { title: 'Blog Post #1' },
+    { title: 'Blog Post #2' },
+    { title: 'Blog Post #3' },
+    { title: 'Blog Post #4' },
+  ];
+
+  return <BlogContext.Provider value={blogPosts}>{children}</BlogContext.Provider>;
 };
+
+export default BlogContext;
